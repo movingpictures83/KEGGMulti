@@ -1,0 +1,2 @@
+Prefix plugins/KEGGMulti/example/
+Plugin KEGGMulti inputfile parameters.keggmulti.txt outputfile none

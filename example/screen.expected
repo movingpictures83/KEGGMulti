@@ -1,0 +1,38 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: KEGGMulti
+Exploring: "Streptococcus_thermophilus" and "cholate"
+"Streptococcus_thermophilus","cholate",map01100:Metabolic pathways - Streptococcus thermophilus S9
+Exploring: "laurate (12:0)" and "(14 or 15)-methylpalmitate (a17:0 or i17:0)"
+"laurate (12:0)","(14 or 15)-methylpalmitate (a17:0 or i17:0)",map01100:Metabolic pathways
+"laurate (12:0)","(14 or 15)-methylpalmitate (a17:0 or i17:0)",map01110:Biosynthesis of secondary metabolites
+Exploring: "laurate (12:0)" and "myristate (14:0)"
+"laurate (12:0)","myristate (14:0)",map00061:Fatty acid biosynthesis
+"laurate (12:0)","myristate (14:0)",map01100:Metabolic pathways
+Exploring: "myristoleate (14:1n5)" and "palmitoleate (16:1n7)"
+TO_DF NOTHING
+Exploring: "caprate (10:0)" and "myristate (14:0)"
+"caprate (10:0)","myristate (14:0)",map00061:Fatty acid biosynthesis
+"caprate (10:0)","myristate (14:0)",map01100:Metabolic pathways
